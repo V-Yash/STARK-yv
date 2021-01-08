@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm YASH VERMA</h1>
 <h3 align="center">Data Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stark-yv&label=Profile%20views&color=0e75b6&style=flat" alt="stark-yv" /> </p>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/stark-yv/count.svg" />
+</p>
 
 - 🌱 I’m currently learning **Data Science Libraries, Machine Learning**
 
@@ -26,9 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stark-yv&show_icons=true&locale=en&layout=compact" alt="stark-yv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stark-yv&show_icons=true&locale=en" alt="stark-yv" /></p>
-
-
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/stark-yv/count.svg" />
-</p>
