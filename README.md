@@ -3,6 +3,8 @@
 
 <p align="center">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=STARK-yv&column=7&theme=gruvbox&no-frame=true"/>
+  </p>
+<p align="center">
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/stark-yv/count.svg" />
 </p>
