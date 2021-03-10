@@ -2,6 +2,7 @@
 <h3 align="center">Data Science</h3>
 
 <p align="center"> 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=STARK-yva&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/stark-yv/count.svg" />
 </p>
