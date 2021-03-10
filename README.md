@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm YASH VERMA</h1>
 <h3 align="center">Data Science</h3>
 
-<p align="center"> 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=STARK-yv)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  https://github-profile-trophy.vercel.app/?username=STARK-yv&theme=darkhub
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/stark-yv/count.svg" />
 </p>
