@@ -2,7 +2,7 @@
 <h3 align="center">Data Science</h3>
 
 <p align="center">
-  https://github-profile-trophy.vercel.app/?username=STARK-yv&theme=darkhub
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=STARK-yv&column=7&theme=gruvbox&no-frame=true"/>
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/stark-yv/count.svg" />
 </p>
