@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm YASH VERMA</h1>
-<h3 align="center">Data Science</h3>
+<h3 align="center">----------</h3>
 
 <p align="center">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=STARK-yv&column=7&theme=gruvbox&no-frame=true"/>
