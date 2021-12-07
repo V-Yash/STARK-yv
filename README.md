@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Science Libraries, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [http://yashv.me/](http://yashv.me/)
+- 👨‍💻 All of my projects are available at [https://stark-yv.github.io/](https://stark-yv.github.io/)
 
 - 📫 How to reach me **yv040599@gmail.com**
 
