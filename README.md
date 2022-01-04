@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ybyyArJ8wDJt7j06EoyjB8NPeFffXW9v/view?usp=sharing](https://drive.google.com/file/d/1ybyyArJ8wDJt7j06EoyjB8NPeFffXW9v/view?usp=sharing)
 
-- ⚡ Fun fact **There is no place like 127.0.0.1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
