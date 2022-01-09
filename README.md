@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://stark-yv.github.io/](https://stark-yv.github.io/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Nq4gbrj_11bCI8rfivRfn6xhoA4ZXNBU/view](https://drive.google.com/file/d/1Nq4gbrj_11bCI8rfivRfn6xhoA4ZXNBU/view)
+- 📄 Know about my experiences [Resume/view](https://drive.google.com/file/d/19mc5qCPC83P9tmeD3TNWzl3NNVksNJov/view?usp=sharing/view)
 
 
 <h3 align="left">Connect with me:</h3>
